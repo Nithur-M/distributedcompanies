@@ -35,7 +35,7 @@
         "countries": [],
         "url": "https://automattic.com/work-with-us/"
     },
-        {
+    {
         "name" : "Publitas",
         "industry": "Marketing",
         "description": "We help brands publish their catalogs online to deliver beautiful shoppable experiences.",
@@ -43,5 +43,5 @@
         "number_of_countries": 24,
         "countries": [],
         "url": "https://www.publitas.com/jobs/"
-    },
+    }
 ]
