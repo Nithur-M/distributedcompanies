@@ -9,7 +9,7 @@ const Footer = () => {
 
     return(
         <Flex direction="column" borderTop="1px" bottom="0" mt="20" borderColor={borderColor} align={isMobile ? 'none' : "baseline"} p="2" gap="3" w="full">
-            <Text fontSize="sm">Want to add a company? Go to <a href="https://github.com/Nithur-M/locationflexiblecompanies" style={{ textDecoration: 'underline'}}>Github</a></Text>
+            <Text fontSize="sm">Want to add a company? Go to <a href="https://github.com/Nithur-M/distributedcompanies" style={{ textDecoration: 'underline'}}>Github</a></Text>
         </Flex>
     )
 }

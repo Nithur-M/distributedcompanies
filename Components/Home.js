@@ -51,8 +51,9 @@ const Home = ({data}) => {
                     <Tag w="max-content">{company.industry}</Tag>
                     <Text color="gray">{company.description}</Text>
                     <Text>Distributed across {company.number_of_countries} countries</Text>
+                    {isMobile ? <Link href={company.url} style={{ marginLeft: "auto"}}><Button>Career page</Button></Link> : null}
                 </Flex>
-                <Link href={company.url} style={{ marginLeft: "auto"}}><Button>Career page</Button></Link>
+                {isMobile ? null : <Link href={company.url} style={{ marginLeft: "auto"}}><Button>Career page</Button></Link>}
             </Flex>
             )}
         </Flex>
