@@ -45,11 +45,11 @@
         "url": "https://www.publitas.com/jobs/"
     },
     {
-        "name" : "Mimo"
-        "industry": "Software development"
+        "name" : "Mimo",
+        "industry": "Software development",
         "description": "Mimo makes coding accessible",
         "logo": "https://pbs.twimg.com/profile_images/1535241722967506947/ozY5zabS_400x400.jpg", 
-        "number_of_countries": 20
+        "number_of_countries": 20,
         "countries": [],
         "url": "https://getmimo.com/about-us#jobs-section"
     }
