@@ -50,10 +50,10 @@ const Home = ({data}) => {
                     <Text fontSize={isMobile? "sm" : "xl"} fontWeight="600" >{company.name}</Text>
                     <Tag w="max-content">{company.industry}</Tag>
                     <Text color="gray">{company.description}</Text>
-                    <Text>Distributed across {company.number_of_countries} countries</Text>
-                    {isMobile ? <Link href={company.url} style={{ marginLeft: "auto"}}><Button>Career page</Button></Link> : null}
+                    <Text>Employees in {company.number_of_countries} countries</Text>
+                    {isMobile ? <Link href={company.url} style={{ marginLeft: "auto"}}><Button colorScheme="blue">Career page</Button></Link> : null}
                 </Flex>
-                {isMobile ? null : <Link href={company.url} style={{ marginLeft: "auto"}}><Button>Career page</Button></Link>}
+                {isMobile ? null : <Link href={company.url} style={{ marginLeft: "auto"}}><Button colorScheme="blue">Career page</Button></Link>}
             </Flex>
             )}
         </Flex>

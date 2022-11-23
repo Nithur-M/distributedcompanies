@@ -17,7 +17,7 @@ const Header = () => {
 
             <Flex direction="column" w={['sm', 'md']}>
                 <Text fontWeight="500" fontSize={isMobile ? "sm" : "xl"}>A directory of companies with distributed teams.</Text>
-                <Text color="gray">Work with your kid at pool side or while travelling the world, this list help you find a distributed company to work flexibly.</Text>
+                <Text color="gray">Work with your kid at pool side or while travelling the world, this list help you find a distributed company to get a flexible job.</Text>
                 <Text>By <a href='https://twitter.com/nithurM' style={{ color: 'blue', textDecoration: 'underline'}}>Nithur</a></Text>
             </Flex>
            
