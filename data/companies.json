@@ -25,5 +25,14 @@
         "number_of_countries": 39,
         "countries": ["Poland", "Brazil","Portugal", "Turkey", "Spain", "United States of America", "Italy", "Russian Federation", "Germany", "Netherlands", "Canada", "United Kingdom of Great Britain and Northern Ireland", "Australia", "Japan", "Slovakia", "Finland", "Greece", "Latvia", "France", "Sweden", "Norway", "Taiwan, Province of China", "Belarus", "Korea, Republic of", "Egypt", "Jamaica", "Curaçao", "Czechia", "Nigeria", "Cyprus", "Gibraltar", "Chile", "Denmark", "Japan", "Panama", "Poland", "Bangladesh", "Luxembourg", "Switzerland"],
         "url": "https://doist.com/careers"
+    },
+    {
+        "name" : "Automattic",
+        "industry": "Software Development",
+        "description": "We are passionate about making the web a better place.",
+        "logo": "https://pbs.twimg.com/profile_images/1285348915538063360/HeKYYepV_400x400.jpg", 
+        "number_of_countries": 70,
+        "countries": [],
+        "url": "https://automattic.com/work-with-us/"
     }
 ]
