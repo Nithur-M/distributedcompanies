@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Deel",
+        "industry": "Payroll",
+        "description": "Hire internationally with complete confidence",
+        "logo": "https://pbs.twimg.com/profile_images/1592209807208955905/8yKw4khd_400x400.png", 
+        "number_of_countries": 60,
+        "countries": [],
+        "url": "https://www.deel.com/careers"
+    },
+    {
+        "name": "SafetyWing",
+        "industry": "Healthcare",
+        "description": "We are building a global social safety net",
+        "logo": "https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg", 
+        "number_of_countries": 27,
+        "countries": ["United States of America", "Norway", "Canada", "Andorra", "Portugal", "France", "Slovenia", "Indonesia", "Australia", "Viet nam", "Spain", "Colombia", "North Macedonia", "Finland", "Mexico", "United Kingdom of Great Britain and Northern Ireland", "Netherlands", "Germany", "Czechia", "Philippines", "Sweden", "Costa Rica", "Italy", "Hungary", "Serbia", "China", "South Africa"],
+        "url": "https://safetywing.pinpointhq.com/"
+    },
+    {
+        "name" : "Doist",
+        "industry": "Productivity",
+        "description": "We’re building the future of work",
+        "logo": "https://pbs.twimg.com/profile_images/1235301811638202369/8-uPHqCv_400x400.jpg", 
+        "number_of_countries": 39,
+        "countries": ["Poland", "Brazil","Portugal", "Turkey", "Spain", "United States of America", "Italy", "Russian Federation", "Germany", "Netherlands", "Canada", "United Kingdom of Great Britain and Northern Ireland", "Australia", "Japan", "Slovakia", "Finland", "Greece", "Latvia", "France", "Sweden", "Norway", "Taiwan, Province of China", "Belarus", "Korea, Republic of", "Egypt", "Jamaica", "Curaçao", "Czechia", "Nigeria", "Cyprus", "Gibraltar", "Chile", "Denmark", "Japan", "Panama", "Poland", "Bangladesh", "Luxembourg", "Switzerland"],
+        "url": "https://doist.com/careers"
+    }
+]
