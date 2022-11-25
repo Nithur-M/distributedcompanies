@@ -52,5 +52,14 @@
         "number_of_countries": 20,
         "countries": [],
         "url": "https://getmimo.com/about-us#jobs-section"
+    },
+    {
+        "name" : "Supabase",
+        "industry": "Software development",
+        "description": "Supabase is an open source Firebase alternative.",
+        "logo": "https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg", 
+        "number_of_countries": 10,
+        "countries": [],
+        "url": "https://boards.greenhouse.io/supabase"
     }
 ]
