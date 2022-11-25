@@ -61,5 +61,14 @@
         "number_of_countries": 10,
         "countries": [],
         "url": "https://boards.greenhouse.io/supabase"
+    },
+    {
+        "name" : "GitLab",
+        "industry": "Software development",
+        "description": "Build software faster. The One DevOps Platform enables your entire organization to collaborate around your code.",
+        "logo": "https://pbs.twimg.com/profile_images/1526219998741647362/8KKDKESj_400x400.jpg", 
+        "number_of_countries": 60,
+        "countries": [],
+        "url": "https://about.gitlab.com/jobs/"
     }
 ]
